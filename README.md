@@ -1,2 +1,10 @@
-# MediCarePlus-PatientManagementSystem
-A Java Swing application for MediCare Plus to manage patients, doctors, and appointments.
+# MediCare Plus – Patient Management System
+
+## 📌 Project Description
+MediCare Plus is a healthcare service provider. This project is a **Java Swing application** designed to manage:
+- Patients (Add, Update, Remove)
+- Doctors (Add, Update, Remove)
+- Appointments (Schedule, Track, Cancel)
+- Notifications for patients & doctors
+- Monthly reports
+
